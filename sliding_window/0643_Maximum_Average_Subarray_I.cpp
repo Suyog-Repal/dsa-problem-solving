@@ -22,5 +22,5 @@ int main(){
     vector<int> nums = {1, 12, -5, -6, 50, 3}; 
     int k = 4; 
     double result = findMaxAverage(nums, k); 
-    cout << "Maximum average subarray of size " << k << "is: " << result << endl; 
+    cout << "Maximum average subarray of size " << k << " is: " << result << endl; 
 }
